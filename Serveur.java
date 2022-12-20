@@ -20,7 +20,7 @@ public class Serveur extends  Thread{
     }
     @Override
     public void run() {
-        JFrame mafenetre=new JFrame("SERVERRRRRRRR");
+        JFrame mafenetre=new JFrame("Parc info");
         mafenetre.setSize(800, 500);
 
         JPanel panel=new JPanel();
